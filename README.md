@@ -1,4 +1,4 @@
-# youtube-blocklist
+# Youtube Blocklist
 Common words associated with scams, and spam. 
 
 ## install
