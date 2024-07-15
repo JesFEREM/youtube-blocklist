@@ -10,3 +10,6 @@ Watch this YouTube Video
 Click the "Copy to Raw file" button on blocklist.txt to put the blocklist into your clipboard
 
 <img width="230" alt="image" src="https://github.com/user-attachments/assets/3af4f617-84ff-452e-a0b7-93df9f90c17e">
+
+## Missed Anything? 
+Feel Free to [submit an issue](https://github.com/JesFEREM/youtube-blocklist/issues). 
